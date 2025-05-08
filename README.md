@@ -24,12 +24,8 @@ A fully mobile-first automation bot for **Facebook Marketplace**, designed to bo
 ### 🔁 Smart Marketplace Reposting & Automation
 Automatically removes old listings and reposts them with fresh data to maximize exposure and conversions.
 
-##
-
 ### 📱 Built for Real Android & iOS Devices
 Runs natively on real Android devices or emulators with cloud-based task orchestration.
-
-##
 
 ### 🧠 Stealthy, Scalable, and Optimized for Conversion
 Mimics real seller behavior to avoid bans, while scaling across dozens of devices and accounts.
