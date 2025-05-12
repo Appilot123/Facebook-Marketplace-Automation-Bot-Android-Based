@@ -2,7 +2,7 @@
 
 A fully mobile-first automation bot for **Facebook Marketplace**, designed to boost visibility and accelerate sales through intelligent reposting. Running on real Android and iOS devices, it automates listing management, reposts ads with fresh metadata, and simulates real user behavior. Supports CSV-based input, chat automation, proxy rotation, and advanced anti-detection measures — all without desktop scrapers.
 
-We’re the team behind Appilot. We’ve helped hundreds of businesses automate their social media with custom bots and automations, smart behavior simulations, and plug-and-play solutions. Our pricing is flexible; we offer competitive flat rates or performance-based options depending on your goals.
+We’re the team behind Appilot. We are a software development agency who helped hundreds of businesses automate their social media with custom bots and automations, smart behavior simulations, and plug-and-play solutions. Our pricing is flexible; we offer competitive flat rates as well as hourly rates for fixed projects.
 
 <p align="center">
   <img
