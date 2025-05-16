@@ -117,3 +117,11 @@ Mimics real seller behavior to avoid bans, while scaling across dozens of device
 | **Cloud Dashboard Integration**      | Manage repost cycles, listing queues, and chat responses from a centralized web dashboard. |
 | **Offline Task Queuing (Planned)**       | Enables task queuing for when devices temporarily lose connection. |
 | **Analytics & Reporting (Planned)**      | Track repost success, listing views, and conversation metrics over time. |
+
+
+### 🧠 Built by Appilot
+This bot is developed and maintained by the team behind [Appilot](https://www.appilot.com) — a powerful automation platform built for real mobile devices (Android & iOS) and emulators.
+Appilot powers automation for over 70,000 devices, enabling safe, scalable control over Instagram, Reddit, TikTok, and more — all without ADB or wires. Our web-based dashboard lets you automate your devices from anywhere, anytime.
+
+We are a professional automation team offering custom mobile bot development for Instagram and other platforms, using real Android/iOS devices and emulators, just real results.
+
