@@ -119,6 +119,12 @@ Mimics real seller behavior to avoid bans, while scaling across dozens of device
 | **Analytics & Reporting (Planned)**      | Track repost success, listing views, and conversation metrics over time. |
 
 
+### 📊 Key Stats
+- Automates thousands of marketplace listings
+- Operates with <1% downtime
+- Supports scaling across 100+ real Android and iOS devices
+
+
 ### 🧠 Built by Appilot
 This bot is developed and maintained by the team behind [Appilot](https://www.appilot.com) — a powerful automation platform built for real mobile devices (Android & iOS) and emulators.
 Appilot powers automation for over 70,000 devices, enabling safe, scalable control over Instagram, Reddit, TikTok, and more — all without ADB or wires. Our web-based dashboard lets you automate your devices from anywhere, anytime.
